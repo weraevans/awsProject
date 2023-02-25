@@ -5,9 +5,9 @@
 2. What is it? Clearly, indicate what that code is supposed to produce. Is it a web, desktop, mobile app or a library?
 
 3. Technologies used:
--> Java
--> Mockito
--> AWS:
+- Java
+- Mockito
+- AWS:
   - API Gateway
   - Lambda
   - DynamoDB
